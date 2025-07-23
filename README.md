@@ -20,4 +20,4 @@ To get started with this project, follow these steps:
 
 ## Development
 
-The `develop` branch is the main development branch for this project. All new features and bug fixes should be based on this branch.
+The `main` branch is the main development branch for this project. All new features and bug fixes should be based on this branch.
