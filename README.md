@@ -1,5 +1,30 @@
-# Firebase Studio
+# Project Title
 
-This is a NextJS starter in Firebase Studio.
+This is a brief description of the project.
 
-To get started, take a look at src/app/page.tsx.
+## Project Structure
+
+The project is organized as follows:
+
+- `src/`: Contains the source code for the project.
+- `tests/`: Contains the tests for the project.
+- `README.md`: This file, providing an overview of the project.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Development
+
+The `main` branch is the main development branch for this project. All new features and bug fixes should be based on this branch.
